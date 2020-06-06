@@ -197,4 +197,15 @@ F 3 "http://www.onsemi.com/pub_link/Collateral/TIP3055-D.PDF" H 4700 3200 50  00
 	1    4700 3200
 	0    -1   -1   0   
 $EndComp
+$Comp
+L Mechanical:Heatsink HS1
+U 1 1 5F2ADEAD
+P 6150 2400
+F 0 "HS1" H 6292 2521 50  0000 L CNN
+F 1 "Heatsink" H 6292 2430 50  0000 L CNN
+F 2 "" H 6162 2400 50  0001 C CNN
+F 3 "~" H 6162 2400 50  0001 C CNN
+	1    6150 2400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
