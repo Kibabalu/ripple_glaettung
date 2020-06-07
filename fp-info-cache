@@ -1,4 +1,4 @@
-19082812473406696
+19092360817310847
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51485,6 +51485,13 @@ heatsink TO-252 TO-263 TO-268
 2
 1
 Heatsink
+Heatsink_Fischer_LA_6_150
+
+
+0
+2
+2
+Heatsink
 Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm
 Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,
 Heatsink fischer TO-220
@@ -84062,3 +84069,38 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
+kicad_logos
+cerasus_loogo_klein
+
+
+0
+0
+0
+kicad_logos
+cherry_logo
+
+
+0
+0
+0
+kicad_logos
+cherry_logo_2
+
+
+0
+0
+0
+kicad_logos
+cherry_logo_3
+
+
+0
+0
+0
+kicad_logos
+cherry_logo_scaled
+
+
+0
+0
+0
