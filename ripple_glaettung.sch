@@ -200,12 +200,14 @@ $EndComp
 $Comp
 L Mechanical:Heatsink HS1
 U 1 1 5F2ADEAD
-P 6150 2400
-F 0 "HS1" H 6292 2521 50  0000 L CNN
-F 1 "Heatsink" H 6292 2430 50  0000 L CNN
-F 2 "Heatsink:Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm" H 6162 2400 50  0001 C CNN
-F 3 "~" H 6162 2400 50  0001 C CNN
-	1    6150 2400
+P 4700 2600
+F 0 "HS1" H 4842 2721 50  0000 L CNN
+F 1 "Heatsink" H 4842 2630 50  0000 L CNN
+F 2 "Heatsink:Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm" H 4712 2600 50  0001 C CNN
+F 3 "~" H 4712 2600 50  0001 C CNN
+	1    4700 2600
 	1    0    0    -1  
 $EndComp
+Text Notes 4900 2900 0    50   ~ 0
+Q1 -> TIP142 (same footprint TO-218 like the TIP3055)
 $EndSCHEMATC
